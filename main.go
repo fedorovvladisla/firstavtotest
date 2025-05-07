@@ -1,4 +1,4 @@
-package firstavtotest
+package main
 
 import (
 	"encoding/json"
